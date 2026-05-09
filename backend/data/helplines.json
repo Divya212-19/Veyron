@@ -1,0 +1,35 @@
+{
+  "helplines": [
+    {"id":"1930","name":"National Cyber Helpline","number":"1930","state":"National","forIncidents":["upi_fraud","banking_fraud","financial_scam"],"timeLimit":"60 minutes","description":"Financial fraud response - call within 1 hour for recovery chance"}
+  ],
+  "cyberCells": [
+    {"state":"Andhra Pradesh","address":"CID Headquarters, Mangalagiri","phone":"+91-866-0000001","email":"cybercell-ap@police.gov.in","googleMapsLink":"https://maps.google.com/?q=CID+Mangalagiri"},
+    {"state":"Arunachal Pradesh","address":"Police HQ, Itanagar","phone":"+91-360-0000002","email":"cybercell-ar@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Police+HQ+Itanagar"},
+    {"state":"Assam","address":"CID Complex, Guwahati","phone":"+91-361-0000003","email":"cybercell-as@police.gov.in","googleMapsLink":"https://maps.google.com/?q=CID+Guwahati"},
+    {"state":"Bihar","address":"Economic Offences Unit, Patna","phone":"+91-612-0000004","email":"cybercell-br@police.gov.in","googleMapsLink":"https://maps.google.com/?q=EOU+Patna"},
+    {"state":"Chhattisgarh","address":"Police HQ, Naya Raipur","phone":"+91-771-0000005","email":"cybercell-cg@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Police+HQ+Raipur"},
+    {"state":"Goa","address":"Cyber Crime Police Station, Ribandar","phone":"+91-832-0000006","email":"cybercell-ga@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Ribandar+Goa+Cyber+Cell"},
+    {"state":"Gujarat","address":"Cyber Crime Cell, Gandhinagar","phone":"+91-79-0000007","email":"cybercell-gj@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Gandhinagar"},
+    {"state":"Haryana","address":"State Crime Branch, Panchkula","phone":"+91-172-0000008","email":"cybercell-hr@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Crime+Branch+Panchkula"},
+    {"state":"Himachal Pradesh","address":"Cyber Police Station, Shimla","phone":"+91-177-0000009","email":"cybercell-hp@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Shimla"},
+    {"state":"Jharkhand","address":"CID HQ, Ranchi","phone":"+91-651-0000010","email":"cybercell-jh@police.gov.in","googleMapsLink":"https://maps.google.com/?q=CID+Ranchi"},
+    {"state":"Karnataka","address":"Cyber Crime Division, Bengaluru","phone":"+91-80-0000011","email":"cybercell-ka@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Crime+Bengaluru"},
+    {"state":"Kerala","address":"Hi-Tech Crime Enquiry Cell, Thiruvananthapuram","phone":"+91-471-0000012","email":"cybercell-kl@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Trivandrum"},
+    {"state":"Madhya Pradesh","address":"Cyber Cell HQ, Bhopal","phone":"+91-755-0000013","email":"cybercell-mp@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Bhopal"},
+    {"state":"Maharashtra","address":"Maharashtra Cyber, Mumbai","phone":"+91-22-0000014","email":"cybercell-mh@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Maharashtra+Cyber+Mumbai"},
+    {"state":"Manipur","address":"State Cyber Cell, Imphal","phone":"+91-385-0000015","email":"cybercell-mn@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Imphal"},
+    {"state":"Meghalaya","address":"Cyber Police Station, Shillong","phone":"+91-364-0000016","email":"cybercell-ml@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Shillong"},
+    {"state":"Mizoram","address":"Cyber Crime Unit, Aizawl","phone":"+91-389-0000017","email":"cybercell-mz@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Aizawl"},
+    {"state":"Nagaland","address":"Cyber Crime PS, Kohima","phone":"+91-370-0000018","email":"cybercell-nl@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Kohima"},
+    {"state":"Odisha","address":"State Crime Branch, Cuttack","phone":"+91-671-0000019","email":"cybercell-or@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Cuttack"},
+    {"state":"Punjab","address":"Cyber Crime Cell, Chandigarh","phone":"+91-172-0000020","email":"cybercell-pb@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Punjab"},
+    {"state":"Rajasthan","address":"Police HQ, Jaipur","phone":"+91-141-0000021","email":"cybercell-rj@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Jaipur"},
+    {"state":"Sikkim","address":"Cyber Crime PS, Gangtok","phone":"+91-3592-000022","email":"cybercell-sk@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Gangtok"},
+    {"state":"Tamil Nadu","address":"Cyber Crime Wing, Chennai","phone":"+91-44-0000023","email":"cybercell-tn@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Crime+Wing+Chennai"},
+    {"state":"Telangana","address":"Cyberabad Cyber Crime PS, Hyderabad","phone":"+91-40-0000024","email":"cybercell-ts@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyberabad+Cyber+Crime"},
+    {"state":"Tripura","address":"State Cyber Cell, Agartala","phone":"+91-381-0000025","email":"cybercell-tr@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Agartala"},
+    {"state":"Uttar Pradesh","address":"Cyber Crime HQ, Lucknow","phone":"+91-522-0000026","email":"cybercell-up@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Crime+Lucknow"},
+    {"state":"Uttarakhand","address":"Cyber PS, Dehradun","phone":"+91-135-0000027","email":"cybercell-uk@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Dehradun"},
+    {"state":"West Bengal","address":"Cyber Crime Wing, Kolkata","phone":"+91-33-0000028","email":"cybercell-wb@police.gov.in","googleMapsLink":"https://maps.google.com/?q=Cyber+Cell+Kolkata"}
+  ]
+}

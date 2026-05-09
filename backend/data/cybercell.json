@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "source": "Indian Cybercrime Coordination Centre (I4C), MHA - State/UT Nodal Officers for NCRP",
+    "sourceUrl": "https://i4c.mha.gov.in/nodal-officer.aspx",
+    "lastVerified": "2026-03-11",
+    "emergencyHelpline": "1930",
+    "nationalPortal": "https://cybercrime.gov.in",
+    "note": "Phone/email are State/UT NCRP nodal or grievance contacts from I4C. Coordinates point to state/UT cyber police headquarters or capital police headquarters for nearest-office routing."
+  },
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "type": "State",
+      "region": "South",
+      "hq": {"city": "Mangalagiri", "address": "Cyber Crimes, CID Headquarters, Mangalagiri, Andhra Pradesh", "phone": "0863-2340183", "email": "cybercrimes-cid@ap.gov.in", "lat": 16.4305, "lng": 80.5689},
+      "offices": []
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "type": "State",
+      "region": "North East",
+      "hq": {"city": "Itanagar", "address": "SIT / Crime Branch, Police Headquarters, Itanagar, Arunachal Pradesh", "phone": "9894067835", "email": "spsit@arupol.nic.in", "lat": 27.0844, "lng": 93.6053},
+      "offices": []
+    },
+    {
+      "name": "Assam",
+      "type": "State",
+      "region": "North East",
+      "hq": {"city": "Guwahati", "address": "CID Headquarters, Assam Police, Guwahati, Assam", "phone": "9435085487", "email": "digp-cid@assampolice.gov.in", "lat": 26.1445, "lng": 91.7362},
+      "offices": []
+    },
+    {
+      "name": "Bihar",
+      "type": "State",
+      "region": "East",
+      "hq": {"city": "Patna", "address": "Cyber Cell, Bihar Police Headquarters, Patna, Bihar", "phone": "0612-2238098", "email": "cybercell-bih@nic.in", "lat": 25.5941, "lng": 85.1376},
+      "offices": []
+    },
+    {
+      "name": "Chhattisgarh",
+      "type": "State",
+      "region": "Central",
+      "hq": {"city": "Raipur", "address": "Cyber Cell, Police Headquarters, Raipur, Chhattisgarh", "phone": "9479191785", "email": "cybercell-phq.cg@gov.in", "lat": 21.2514, "lng": 81.6296},
+      "offices": []
+    },
+    {
+      "name": "Goa",
+      "type": "State",
+      "region": "West",
+      "hq": {"city": "Panaji", "address": "Cyber Crime Police Station, Goa Police, Panaji, Goa", "phone": "0832-2420883", "email": "spcyber@goapolice.gov.in", "lat": 15.4909, "lng": 73.8278},
+      "offices": []
+    },
+    {
+      "name": "Gujarat",
+      "type": "State",
+      "region": "West",
+      "hq": {"city": "Gandhinagar", "address": "CID Crime and Railways, Cyber Crime Cell, Gandhinagar, Gujarat", "phone": "079-23250798", "email": "cc-cid@gujarat.gov.in", "lat": 23.2156, "lng": 72.6369},
+      "offices": []
+    },
+    {
+      "name": "Haryana",
+      "type": "State",
+      "region": "North",
+      "hq": {"city": "Panchkula", "address": "State Cyber Crime Police Station / PHQ, Panchkula, Haryana", "phone": "7814641313", "email": "sp-cybercrimephq.pol@hry.gov.in", "lat": 30.6942, "lng": 76.8606},
+      "offices": []
+    },
+    {
+      "name": "Himachal Pradesh",
+      "type": "State",
+      "region": "North",
+      "hq": {"city": "Shimla", "address": "Cyber Police Station, Shimla, Himachal Pradesh", "phone": "0177-2627955", "email": "polcyberps-shi-hp@nic.in", "lat": 31.1048, "lng": 77.1734},
+      "offices": []
+    },
+    {
+      "name": "Jharkhand",
+      "type": "State",
+      "region": "East",
+      "hq": {"city": "Ranchi", "address": "Cyber Crime Police Station, Jharkhand Police, Ranchi, Jharkhand", "phone": "0651-2490046", "email": "spcyberps.jhpolice@gov.in", "lat": 23.3441, "lng": 85.3096},
+      "offices": []
+    },
+    {
+      "name": "Karnataka",
+      "type": "State",
+      "region": "South",
+      "hq": {"city": "Bengaluru", "address": "CID Cyber Crime Police Station, Carlton House, Palace Road, Bengaluru, Karnataka", "phone": "080-22251817", "email": "spctrcid.ksp.gov.in", "lat": 12.9767, "lng": 77.5929},
+      "offices": [
+        {"city": "Bengaluru", "address": "Cyber Crime Police Station, Carlton House, Palace Road, Bengaluru", "phone": "080-22943050", "email": "spctrcid.ksp.gov.in", "lat": 12.9767, "lng": 77.5929}
+      ]
+    },
+    {
+      "name": "Kerala",
+      "type": "State",
+      "region": "South",
+      "hq": {"city": "Thiruvananthapuram", "address": "Cyber Police / Cyberdome, Police Headquarters, Thiruvananthapuram, Kerala", "phone": "0471-2722215", "email": "ncrpkerala.pol@kerala.gov.in", "lat": 8.5241, "lng": 76.9366},
+      "offices": []
+    },
+    {
+      "name": "Madhya Pradesh",
+      "type": "State",
+      "region": "Central",
+      "hq": {"city": "Bhopal", "address": "State Cyber Police Headquarters, Bhopal, Madhya Pradesh", "phone": "0755-2770248", "email": "adg-cybercell@mppolice.gov.in", "lat": 23.2599, "lng": 77.4126},
+      "offices": []
+    },
+    {
+      "name": "Maharashtra",
+      "type": "State",
+      "region": "West",
+      "hq": {"city": "Mumbai", "address": "Maharashtra Cyber, Mumbai, Maharashtra", "phone": "022-22160080", "email": "sp.cbr-mah@gov.in", "lat": 18.9388, "lng": 72.8354},
+      "offices": [
+        {"city": "Mumbai Central Region", "address": "Cyber Police Station, Central Region Mumbai, Worli Police Station Compound, Dr. Annie Besant Road, Worli, Mumbai - 400030", "phone": "022-35673226, 8850646135", "email": "ps.centralcyber.mum@mahapolice.gov.in", "lat": 19.0169, "lng": 72.8174},
+        {"city": "Mumbai South Region", "address": "South Cyber Police Station, D B Marg Police Station compound, Grant Road East, Mumbai - 400007", "phone": "022-23801069, 022-23801070", "email": "ps.southcyber.mum@mahapolice.gov.in", "lat": 18.9629, "lng": 72.8134}
+      ]
+    },
+    {
+      "name": "Manipur",
+      "type": "State",
+      "region": "North East",
+      "hq": {"city": "Imphal", "address": "Cyber Crime Police Station, Manipur Police, Imphal, Manipur", "phone": "0385-2450573", "email": "sp-cybercrime.mn@manipur.gov.in", "lat": 24.8170, "lng": 93.9368},
+      "offices": []
+    },
+    {
+      "name": "Meghalaya",
+      "type": "State",
+      "region": "North East",
+      "hq": {"city": "Shillong", "address": "CID / Cyber Crime, Meghalaya Police, Shillong, Meghalaya", "phone": "0364-2550141", "email": "sspcid-meg@gov.in", "lat": 25.5788, "lng": 91.8933},
+      "offices": []
+    },
+    {
+      "name": "Mizoram",
+      "type": "State",
+      "region": "North East",
+      "hq": {"city": "Aizawl", "address": "CID / Cyber Crime, Mizoram Police, Aizawl, Mizoram", "phone": "0389-2334682", "email": "digcid-mz@mizoram.gov.in", "lat": 23.7271, "lng": 92.7176},
+      "offices": []
+    },
+    {
+      "name": "Nagaland",
+      "type": "State",
+      "region": "North East",
+      "hq": {"city": "Kohima", "address": "CID / Cyber Crime Police Station, Nagaland Police, Kohima, Nagaland", "phone": "0370-2223897", "email": "cybercrimeps-ngl@gov.in", "lat": 25.6751, "lng": 94.1086},
+      "offices": []
+    },
+    {
+      "name": "Odisha",
+      "type": "State",
+      "region": "East",
+      "hq": {"city": "Cuttack", "address": "CID Crime Branch / Cyber Crime, Cuttack, Odisha", "phone": "0671-2306071", "email": "dirscrb.odpol@nic.in", "lat": 20.4625, "lng": 85.8828},
+      "offices": []
+    },
+    {
+      "name": "Punjab",
+      "type": "State",
+      "region": "North",
+      "hq": {"city": "Mohali", "address": "Punjab Police Cyber Crime Cell, SAS Nagar / Mohali, Punjab", "phone": "0172-2226258", "email": "aigcc@punjabpolice.gov.in", "lat": 30.7046, "lng": 76.7179},
+      "offices": []
+    },
+    {
+      "name": "Rajasthan",
+      "type": "State",
+      "region": "North",
+      "hq": {"city": "Jaipur", "address": "Cyber Crime Police Station, Jaipur, Rajasthan", "phone": "0141-2601122", "email": "ccps-raj@nic.in", "lat": 26.9124, "lng": 75.7873},
+      "offices": []
+    },
+    {
+      "name": "Sikkim",
+      "type": "State",
+      "region": "North East",
+      "hq": {"city": "Gangtok", "address": "CID / Cyber Crime, Sikkim Police, Gangtok, Sikkim", "phone": "03592-204297", "email": "spcid@sikkimpolice.nic.in", "lat": 27.3389, "lng": 88.6065},
+      "offices": []
+    },
+    {
+      "name": "Tamil Nadu",
+      "type": "State",
+      "region": "South",
+      "hq": {"city": "Chennai", "address": "Cyber Crime Wing, Tamil Nadu Police, Chennai, Tamil Nadu", "phone": "044-29580300", "email": "sp1-ccdtnpolice@gov.in", "lat": 13.0827, "lng": 80.2707},
+      "offices": []
+    },
+    {
+      "name": "Telangana",
+      "type": "State",
+      "region": "South",
+      "hq": {"city": "Hyderabad", "address": "Telangana Cyber Security Bureau / Cyber Cell, Hyderabad, Telangana", "phone": "040-23147604", "email": "cybercell-t4c14@tspolice.gov.in", "lat": 17.3850, "lng": 78.4867},
+      "offices": []
+    },
+    {
+      "name": "Tripura",
+      "type": "State",
+      "region": "North East",
+      "hq": {"city": "Agartala", "address": "Cyber Crime Police Station, Tripura Police, Agartala, Tripura", "phone": "0381-2321741", "email": "spcybercrime@tripurapolice.nic.in", "lat": 23.8315, "lng": 91.2868},
+      "offices": []
+    },
+    {
+      "name": "Uttarakhand",
+      "type": "State",
+      "region": "North",
+      "hq": {"city": "Dehradun", "address": "Cyber Crime Police Station, STF / Police Headquarters, Dehradun, Uttarakhand", "phone": "0135-2651689", "email": "ccps.deh@uttarakhandpolice.uk.gov.in", "lat": 30.3165, "lng": 78.0322},
+      "offices": [
+        {"city": "Dehradun", "address": "Cyber Crime Police Station, STF / Police Headquarters, Dehradun", "phone": "0135-2651689", "email": "ccps.deh@uttarakhandpolice.uk.gov.in", "lat": 30.3165, "lng": 78.0322},
+        {"city": "Haridwar", "address": "District Cyber Cell, Haridwar Police, Haridwar", "phone": "1930", "email": "ccps.deh@uttarakhandpolice.uk.gov.in", "lat": 29.9457, "lng": 78.1642}
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "type": "State",
+      "region": "North",
+      "hq": {"city": "Lucknow", "address": "Cyber Crime Headquarters, Uttar Pradesh Police, Lucknow, Uttar Pradesh", "phone": "0522-2390538", "email": "sp-cyber.lu@up.gov.in", "lat": 26.8467, "lng": 80.9462},
+      "offices": []
+    },
+    {
+      "name": "West Bengal",
+      "type": "State",
+      "region": "East",
+      "hq": {"city": "Kolkata", "address": "Cyber Crime Wing / CID, West Bengal, Kolkata", "phone": "033-24506100", "email": "ccpwb@cidwestbengal.gov.in", "lat": 22.5726, "lng": 88.3639},
+      "offices": [
+        {"city": "Asansol", "address": "Cyber Crime PS, Asansol-Durgapur Police Commissionerate, near Bhagat Singh More, Asansol", "phone": "9147889433", "email": "adpc.cybercop-wb@nic.in", "lat": 23.6739, "lng": 86.9524},
+        {"city": "Bidhannagar", "address": "Cyber Crime PS, Bidhannagar Police Commissionerate, ED Block, Sector II, Kolkata", "phone": "033-23595589, 9147889474", "email": "ccell.bdn@policewb.gov.in", "lat": 22.5867, "lng": 88.4171},
+        {"city": "Howrah", "address": "Cyber Crime PS, Howrah Police Commissionerate, 24 Belilious Road, Howrah", "phone": "033-26768007", "email": "cyberpshpc@policewb.gov.in", "lat": 22.5958, "lng": 88.2636}
+      ]
+    },
+    {
+      "name": "Andaman and Nicobar Islands",
+      "type": "Union Territory",
+      "region": "Islands",
+      "hq": {"city": "Port Blair", "address": "CID / Cyber Crime, Police Headquarters, Port Blair, Andaman and Nicobar Islands", "phone": "03192-230216", "email": "digpint-anp@gov.in", "lat": 11.6234, "lng": 92.7265},
+      "offices": []
+    },
+    {
+      "name": "Chandigarh",
+      "type": "Union Territory",
+      "region": "North",
+      "hq": {"city": "Chandigarh", "address": "Cyber Crime Investigation Cell, Chandigarh Police, Chandigarh", "phone": "0172-2749900", "email": "speowccic@gmail.com", "lat": 30.7333, "lng": 76.7794},
+      "offices": []
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "type": "Union Territory",
+      "region": "West",
+      "hq": {"city": "Daman", "address": "Police Headquarters, Daman, Dadra and Nagar Haveli and Daman and Diu", "phone": "0260-2220140", "email": "phq-dd@nic.in", "lat": 20.3974, "lng": 72.8328},
+      "offices": []
+    },
+    {
+      "name": "Delhi",
+      "type": "Union Territory",
+      "region": "North",
+      "hq": {"city": "New Delhi", "address": "Cyber Crime Unit, Delhi Police, New Delhi", "phone": "011-20892633", "email": "ncrp.delhi@delhipolice.gov.in", "lat": 28.6139, "lng": 77.2090},
+      "offices": [
+        {"city": "East Delhi", "address": "Cyber Police Station, Pandav Nagar, near Trilokpuri Sanjay Lake Metro Station, Delhi - 110091", "phone": "6828401137", "email": "shocyber.east@delhipolice.gov.in", "lat": 28.6117, "lng": 77.2986},
+        {"city": "New Delhi District", "address": "Cyber Police Station, PS Mandir Marg, New Delhi - 110001", "phone": "011-23361880", "email": "shocyber.nd@delhipolice.gov.in", "lat": 28.6338, "lng": 77.2006},
+        {"city": "Dwarka", "address": "1st Floor, PS Dwarka North, Sector 17, Dwarka, New Delhi - 110075", "phone": "8287513200", "email": "shocyber.dwarka@delhipolice.gov.in", "lat": 28.5956, "lng": 77.0437},
+        {"city": "Rohini", "address": "Cyber Police Station, Sector 17, Rohini, New Delhi - 110089", "phone": "011-20879316", "email": "insp-cyber-rohini@delhipolice.gov.in", "lat": 28.7383, "lng": 77.0822}
+      ]
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "type": "Union Territory",
+      "region": "North",
+      "hq": {"city": "Jammu", "address": "Crime Branch / Cyber Crime, Jammu and Kashmir Police, Jammu", "phone": "0191-2582926", "email": "igcrime-jk@nic.in", "lat": 32.7266, "lng": 74.8570},
+      "offices": []
+    },
+    {
+      "name": "Ladakh",
+      "type": "Union Territory",
+      "region": "North",
+      "hq": {"city": "Leh", "address": "Police Headquarters / Cyber Crime, Leh, Ladakh", "phone": "9419182740", "email": "itsec-phq.police@ladakh.gov.in", "lat": 34.1526, "lng": 77.5771},
+      "offices": []
+    },
+    {
+      "name": "Lakshadweep",
+      "type": "Union Territory",
+      "region": "Islands",
+      "hq": {"city": "Kavaratti", "address": "Police Headquarters / Cyber Crime, Kavaratti, Lakshadweep", "phone": "04896-262258", "email": "cctns-lk@nic.in", "lat": 10.5593, "lng": 72.6358},
+      "offices": []
+    },
+    {
+      "name": "Puducherry",
+      "type": "Union Territory",
+      "region": "South",
+      "hq": {"city": "Puducherry", "address": "Cyber Cell, Puducherry Police, Puducherry", "phone": "0413-2231386", "email": "cybercell-police.py@gov.in", "lat": 11.9416, "lng": 79.8083},
+      "offices": []
+    }
+  ]
+}

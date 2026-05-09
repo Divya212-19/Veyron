@@ -1,0 +1,32 @@
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Python virtual environments / caches (backend)
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.env
+
+# Local Bolt.new / StackBlitz-style IDE metadata (not used by build)
+.bolt/
